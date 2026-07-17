@@ -18,7 +18,7 @@ Run the following commands inside your terminal (or command prompt / PowerShell)
 
 ```bash
 # 1. Clone the repository
-git clone <repository-url>
+git clone https://github.com/jclee-wm25/CD.git
 cd LiveLocal
 
 # 2. Install project dependencies
